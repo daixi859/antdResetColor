@@ -1,0 +1,24 @@
+{
+  "name": "antd-reset-theme-color",
+  "version": "1.0.0",
+  "description": "antd换肤工具",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daixi859/antdResetColor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daixi859/antdResetColor/issues"
+  },
+  "homepage": "https://github.com/daixi859/antdResetColor#readme",
+  "dependencies": {
+    "antd": "^4.9.2",
+    "css2json": "^1.1.1"
+  }
+}
